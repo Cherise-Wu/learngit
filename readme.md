@@ -1,5 +1,6 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+学习内容：安装使用github
 
-Git tracks changes of files.
+安装软件：mrakdown、git、typora、notepad
+
+
+
